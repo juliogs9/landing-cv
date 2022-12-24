@@ -1,0 +1,22 @@
+{
+  "name": "landing-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliogs9/landing-cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliogs9/landing-cv/issues"
+  },
+  "homepage": "https://github.com/juliogs9/landing-cv#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
